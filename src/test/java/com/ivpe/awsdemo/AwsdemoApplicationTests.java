@@ -1,4 +1,4 @@
-package com.ivpe.awsdemo.awsdemo;
+package com.ivpe.awsdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
